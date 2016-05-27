@@ -1,0 +1,21 @@
+{
+  "name": "myTechnode",
+  "description": "聊天室",
+  "version": "0.0.0",
+  "authors": [
+    "zhwang <516275397@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zhwang0125/myTechnode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "angular": "~1.2.5"
+  }
+}
